@@ -1,6 +1,6 @@
 # Lesson 5: DeadLetter Channel.
 
-DeadLetter is a channel for undelivered messages. It stores all messages that have not been processed or delivered. This is the most common channel, but most often, it is not used to send messages. Only when it is detected, a problem with a message. For example, if message cannot be delivered, will the message be automatically placed into DeadLetter channel.
+DeadLetter is a channel for undelivered messages. It stores all messages that have not been processed or delivered. This is the most common channel, but most often, it is not used to send messages. Only when it is detected a problem with a message. For example, if message cannot be delivered, will the message be automatically placed into DeadLetter channel.
 
 ![](../../images/6_5_1.png)
 
